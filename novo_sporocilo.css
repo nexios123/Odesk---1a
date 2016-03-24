@@ -1,0 +1,211 @@
+#glavnimeni
+{
+	border-radius:10px;
+	background-color:grey;
+	width:80%;
+	float:left;
+	height:6%;
+}
+
+
+
+
+
+
+#sporočila
+{
+	
+	border-top-right-radius:10px;
+	border-bottom-left-radius:10px;
+	position:relative;
+	width:100px;
+	float:left;
+	text-align:center;
+	background-color:silver;
+        margin-left:10px;
+	height:75%;
+	font-family:helvetica;
+	font-size:15px;
+	padding:10px 0px 0px 0px;
+	font-weight:bold;
+}
+
+#sporočila:hover
+{
+	background-color:green;
+	color:white;
+}
+
+#prijatelji 
+{
+	background-color:silver;
+	
+	border-radius:10px;
+	width:100px;
+	float:left;
+	margin-left:20px;
+	text-align:center;
+}
+
+#prijatelji:hover
+{
+	background-color:green;
+	color:white;
+}
+
+#spodnjimeni 
+{
+	background-color:lightgrey;
+	border-radius:10px;
+        width:80%;
+	height:60%;
+	float:left;
+	margin-bottom:200px;
+	
+}
+
+#izbira
+{
+	background-color:grey;
+	width:120px;
+	height:40%;
+	border-radius:10px;
+	float:left;
+	margin-top:5px;
+}
+
+#novasporočila
+{
+	border:none black 1px;
+	width:100px;
+	text-align:center;
+	height:20%;
+	margin:20px 0px 0px 10px;
+	font-family:helvetica;
+	padding:10px 0px 0px 0px;
+}
+
+#novasporočila:hover
+{
+	background-color:silver;
+}
+
+#prejeta
+{
+	height:20%;
+	border:none black 1px;
+	width:100px;
+	text-align:center;
+	margin:20px 0px 0px 10px;
+	font-family:helvetica;
+	padding:10px 0px 0px 0px;
+}
+
+#prejeta:hover
+{
+	background-color:silver;
+}
+
+#poslana
+{
+	border-radius:10px;
+	border:inset black 1px;
+	width:100px;
+	text-align:center;
+	margin:5px;
+}
+
+#poslana:hover
+{
+	background-color:white;
+}
+
+#osnutki
+{
+	border-radius:10px;
+	border:inset black 1px;
+	width:100px;
+	text-align:center;
+	margin:5px;
+}
+
+#osnutki:hover
+{
+	background-color:white;
+}
+
+#okno
+{
+	font-family:helvetica;
+	background-color:white;
+	width:80%;
+	height:auto;
+	float:left;
+	margin:5px;
+	border-radius:10px;
+	
+}
+
+
+placeholder
+{
+	font-style:italic;
+}
+
+#izbriši
+{
+	border:solid black 1px;
+	float:right;
+	margin-right:100px;
+	width:50px;
+	text-align:center;
+	border-radius:10px;
+}
+
+#uredi
+{
+	border:solid black 1px;
+	float:right;
+	width:50px;
+	text-align:center;
+	margin-right:150px;
+	border-radius:10px;
+	
+}
+
+#izbriši:hover
+{
+	background-color:white;
+}
+
+#uredi:hover
+{
+	background-color:white;
+}
+
+#e-naslov
+{
+	font-style:italic;
+	border-radius:5px;
+}
+
+#zadeva
+{
+	font-style:italic;
+	border-radius:5px;
+}
+
+#besedilo
+{
+	border-radius:5px;
+	font-style:italic;
+}
+
+   .textbox {
+        width: 500px;
+        clear: both;
+    }
+    .textbox input {
+        width: 100%;
+        clear: both;
+    }
