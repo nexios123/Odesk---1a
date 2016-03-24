@@ -1,0 +1,79 @@
+.error {
+    font-size: 1.2 em;
+    background-color: #FF9090;
+    padding: 10px;
+    margin: 10px auto;
+    width: 400px;
+    color: #FFFFFF; 
+    font-weight: bold;
+    text-align: center;
+}
+.success {
+    font-size: 1.2 em;
+    background-color: #00FF00;
+    padding: 10px;
+    margin: 10px auto;
+    width: 400px;
+    color: #FFFFFF; 
+    font-weight: bold;
+    text-align: center;
+}
+
+div.user {
+    border-width: 2px;
+    border-style: solid;
+    border-color: #000000;
+    width: 30%;
+    padding: 8px;
+    height: 450px;
+    margin-bottom: 15px;
+    float: left;
+    margin-right: 20px;
+    position: relative;
+}
+
+div.user img {
+    width: 80%;
+    margin: 10px auto;
+}
+
+div.userdata {
+    margin: 8px;
+}
+
+div.user-name {
+    font-size: 2em;
+}
+
+div.user-name span {
+    margin: 2px;
+}
+
+div.user-name span:first-child {
+    text-transform: uppercase;
+}
+
+div.profilelink {
+    visibility: hidden;
+    background-color: #FF9090;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 4px;    
+    position: absolute;
+    bottom: 2px;
+    width: 90%;
+}
+
+div.user:hover div.profilelink {
+    visibility: visible;    
+}
+
+#prijava 
+{
+    color:green;
+}
+
+
+
+
+
